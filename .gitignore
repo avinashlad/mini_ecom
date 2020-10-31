@@ -1,0 +1,12 @@
+/vendor
+/node_modules
+/public/storage
+Homestead.yaml
+Homestead.json
+
+#####=== Laravel ===#####
+/bootstrap/cache/
+/bootstrap/compiled.php
+.env.*.php
+.env.php
+.env
